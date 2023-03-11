@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="SimpleFactory\" />
+    <None Remove="FactoryMethod\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="SimpleFactory\" />
+    <Folder Include="FactoryMethod\" />
   </ItemGroup>
 </Project>
