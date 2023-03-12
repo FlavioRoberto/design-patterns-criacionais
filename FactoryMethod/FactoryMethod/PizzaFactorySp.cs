@@ -1,17 +1,13 @@
 ﻿using System;
 namespace FactoryMethod.FactoryMethod
 {
-	public class PizzaFactorySp : PizzaFactoryMethod
-	{
-        public override Pizza CreatePizza(string name)
+    public class PizzaFactorySp : PizzaFactoryMethod
+    {
+        protected override Dictionary<string, Pizza> Pizzas => new Dictionary<string, Pizza>
         {
-            switch (name)
-            {
-                case "M": return new PizzaMozzarellaSp();
-                case "P": return new PizzaPepperoniSp();
-                default: throw new ApplicationException("Pizza not found");
-            }
-        }
+            {"M", new PizzaMozzarellaSp()},
+            {"P", new PizzaPepperoniSp()}
+        };
     }
 }
 
