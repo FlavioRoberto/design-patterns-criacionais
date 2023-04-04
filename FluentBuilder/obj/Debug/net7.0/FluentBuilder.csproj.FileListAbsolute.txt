@@ -1,0 +1,15 @@
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/bin/Debug/net7.0/FluentBuilder
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/bin/Debug/net7.0/FluentBuilder.deps.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/bin/Debug/net7.0/FluentBuilder.runtimeconfig.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/bin/Debug/net7.0/FluentBuilder.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/bin/Debug/net7.0/FluentBuilder.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.csproj.AssemblyReference.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.AssemblyInfoInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.AssemblyInfo.cs
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.csproj.CoreCompileInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/refint/FluentBuilder.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/FluentBuilder.genruntimeconfig.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/FluentBuilder/obj/Debug/net7.0/ref/FluentBuilder.dll
