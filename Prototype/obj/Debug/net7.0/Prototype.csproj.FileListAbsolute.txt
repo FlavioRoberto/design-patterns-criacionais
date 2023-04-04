@@ -1,0 +1,15 @@
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/bin/Debug/net7.0/Prototype
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/bin/Debug/net7.0/Prototype.deps.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/bin/Debug/net7.0/Prototype.runtimeconfig.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/bin/Debug/net7.0/Prototype.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/bin/Debug/net7.0/Prototype.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/refint/Prototype.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/Prototype.genruntimeconfig.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Prototype/obj/Debug/net7.0/ref/Prototype.dll
