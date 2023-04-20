@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentBuilder", "FluentBuil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{D7526668-CF11-4278-B693-EFAF79A80738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{4C89088E-ECE8-446A-AB25-3764B0758DE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{D7526668-CF11-4278-B693-EFAF79A80738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7526668-CF11-4278-B693-EFAF79A80738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7526668-CF11-4278-B693-EFAF79A80738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C89088E-ECE8-446A-AB25-3764B0758DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C89088E-ECE8-446A-AB25-3764B0758DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C89088E-ECE8-446A-AB25-3764B0758DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C89088E-ECE8-446A-AB25-3764B0758DE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

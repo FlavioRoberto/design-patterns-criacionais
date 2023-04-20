@@ -1,0 +1,15 @@
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/bin/Debug/net7.0/Singleton
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/flaviorobertoteixeira/Desktop/Desenvolvimento/dotnet/design-patterns-criacionais/Singleton/obj/Debug/net7.0/ref/Singleton.dll
