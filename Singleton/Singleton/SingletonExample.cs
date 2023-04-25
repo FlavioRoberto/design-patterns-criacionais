@@ -2,7 +2,7 @@
 
 namespace Singleton
 {
-    public class SingletonExample
+    public sealed class SingletonExample
     {
         private static SingletonExample instance;
         private static int numberOfInstance = 0;
@@ -31,6 +31,33 @@ namespace Singleton
                     }
                 }
 
+                return instance;
+            }
+        }
+    }
+
+    public sealed class SingletonExampleWithoutLock
+    {
+        private static SingletonExampleWithoutLock instance;
+        private static int numberOfInstance = 0;
+
+        private SingletonExampleWithoutLock()
+        {
+        }
+
+        static SingletonExampleWithoutLock()
+        {
+            WriteLine("Incresing number of instance");
+            numberOfInstance++;
+            WriteLine($"number of instance: {numberOfInstance}");
+
+            instance = new SingletonExampleWithoutLock();
+        }
+
+        public static SingletonExampleWithoutLock Instance
+        {
+            get
+            {
                 return instance;
             }
         }

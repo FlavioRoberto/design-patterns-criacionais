@@ -6,24 +6,18 @@ Parallel.Invoke(
     () => InvokeThreadOne(),
     () => InvokeThreadTwo());
 
-
-//if (instance == instance2)
-//    WriteLine("Has one instance");
-//else
-//    WriteLine("Have two instances");
-
 ReadLine();
 
 
 void InvokeThreadOne()
 {
     WriteLine("Trying to create the first singleton instance");
-    var instance = SingletonExample.Instance;
+    var instance = SingletonExampleWithoutLock.Instance;
 
 }
 
 void InvokeThreadTwo()
 {
     WriteLine("Trying to create the second singleton instance");
-    var instance2 = SingletonExample.Instance;
+    var instance2 = SingletonExampleWithoutLock.Instance;
 }
