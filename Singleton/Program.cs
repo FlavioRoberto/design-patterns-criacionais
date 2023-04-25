@@ -12,12 +12,12 @@ ReadLine();
 void InvokeThreadOne()
 {
     WriteLine("Trying to create the first singleton instance");
-    var instance = SingletonExampleWithoutLock.Instance;
+    var instance = SingletonEagerLoading.Instance;
 
 }
 
 void InvokeThreadTwo()
 {
     WriteLine("Trying to create the second singleton instance");
-    var instance2 = SingletonExampleWithoutLock.Instance;
+    var instance2 = SingletonEagerLoading.Instance;
 }

@@ -62,5 +62,28 @@ namespace Singleton
             }
         }
     }
+
+    public sealed class SingletonEagerLoading
+    {
+        private static SingletonEagerLoading instance = new SingletonEagerLoading();
+
+        private static int numberOfInstance = 0;
+
+
+        private SingletonEagerLoading()
+        {
+            WriteLine("Incresing number of instance");
+            numberOfInstance++;
+            WriteLine($"number of instance: {numberOfInstance}");
+        }
+
+        public static SingletonEagerLoading Instance
+        {
+            get
+            {
+                return instance;
+            }
+        }
+    }
 }
 
