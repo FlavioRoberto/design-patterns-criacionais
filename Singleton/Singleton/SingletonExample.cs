@@ -66,9 +66,7 @@ namespace Singleton
     public sealed class SingletonEagerLoading
     {
         private static SingletonEagerLoading instance = new SingletonEagerLoading();
-
         private static int numberOfInstance = 0;
-
 
         private SingletonEagerLoading()
         {
@@ -82,6 +80,29 @@ namespace Singleton
             get
             {
                 return instance;
+            }
+        }
+    }
+
+    public sealed class SingletonLazyLoading
+    {
+        private static readonly Lazy<SingletonLazyLoading> Instancelock =
+            new Lazy<SingletonLazyLoading>(() => new SingletonLazyLoading());
+
+        private static int numberOfInstance = 0;
+
+        private SingletonLazyLoading()
+        {
+            WriteLine("Incresing number of instance");
+            numberOfInstance++;
+            WriteLine($"number of instance: {numberOfInstance}");
+        }
+
+        public static SingletonLazyLoading Instance
+        {
+            get
+            {
+                return Instancelock.Value;
             }
         }
     }
