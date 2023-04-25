@@ -6,6 +6,7 @@ namespace Singleton
     {
         private static SingletonExample instance;
         private int numberOfInstance = 0;
+        private static readonly object lockObject = new object();
 
         private SingletonExample()
         {
@@ -18,13 +19,16 @@ namespace Singleton
         {
             get
             {
-                if (instance == null)
+                lock (lockObject)
                 {
-                    WriteLine("Creating firts instance");
-                    instance = new SingletonExample();
-                }
+                    if (instance == null)
+                    {
+                        WriteLine("Creating firts instance");
+                        instance = new SingletonExample();
+                    }
 
-                return instance;
+                    return instance;
+                }
             }
         }
     }
